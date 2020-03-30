@@ -1,4 +1,4 @@
-# python-movie-meeting-jmete
+# python-movie-meeting-jmeter
 >
 
 ## Status
